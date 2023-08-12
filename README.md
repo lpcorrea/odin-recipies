@@ -1,2 +1,3 @@
 # odin-recipies
-HTML/CSS/JS studies on https://www.theodinproject.com/
+
+Primeiro trabalho de estudo HTML/CSS/JS pelo https://www.theodinproject.com/
